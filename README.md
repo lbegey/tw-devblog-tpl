@@ -1,3 +1,5 @@
+<img src="https://lbegey.fr/imgs/blog2.png"><br>
+
 No need for big description.<br>
 Simple Dev blog to start your journey as a writter.<br>
 HTML TainwindCSS template.<br><br>
